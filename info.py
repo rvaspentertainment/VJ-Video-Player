@@ -24,7 +24,7 @@ LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001611423558'))
 MONGODB_URI = environ.get("MONGODB_URI", "mongodb+srv://rebelstarcreations123:Z5aWnjBR96lmn4FW@cluster0.gg7js7w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 # Stream Url Means Your Deploy Server App Url, Here You Media Will Be Stream And Ads Will Be Shown.
-STREAM_URL = environ.get("STREAM_URL", "")
+STREAM_URL = environ.get("STREAM_URL", "https://explicit-koressa-rvasp-4ccc7bc0.koyeb.app/")
 
 # This Link Used As Permanent Link That If Your Deploy App Deleted Then You Change Stream Url, So This Link Will Redirect To Stream Url.
 LINK_URL = environ.get("LINK_URL", "https://testrvasp.blogspot.com/p/rvasp-test.html")
