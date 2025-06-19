@@ -9,7 +9,7 @@ API_ID = int(environ.get('API_ID', '13828860'))
 API_HASH = environ.get('API_HASH', 'bbcd5f94dcd9f8a5eedc5de7397b4127')
 
 # Bot Token, This Is Main Bot
-BOT_TOKEN = environ.get('BOT_TOKEN', "7419820448:AAH3AGFN4Sqd4xoR3MT_UTkXTVW7Zre-TQ8")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7419820448:AAHWXYWZy36Blx-jJS7jhLAqThMyoygZkMI")
 
 # Admin Telegram Account Id For Withdraw Notification Or Anything Else
 ADMIN = int(environ.get('ADMIN', '591732965'))
